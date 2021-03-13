@@ -1,0 +1,23 @@
+[02-Oct-2020 11:37:57 UTC] PHP Notice:  Undefined index: checkprice in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/pricing/payments.php on line 32
+[09-Nov-2020 05:02:53 UTC] PHP Notice:  Undefined variable: itemAmount in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/pricing/payments.php on line 86
+[09-Nov-2020 05:07:52 UTC] PHP Notice:  Undefined variable: itemAmount in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/pricing/payments.php on line 86
+[09-Nov-2020 05:09:50 UTC] PHP Notice:  Undefined variable: itemAmount in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/pricing/payments.php on line 86
+[12-Nov-2020 19:19:48 UTC] PHP Notice:  Undefined variable: itemAmount in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/pricing/payments.php on line 86
+[22-Nov-2020 00:34:23 UTC] PHP Notice:  Undefined variable: itemAmount in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/pricing/payments.php on line 86
+[22-Nov-2020 00:35:27 UTC] PHP Notice:  Undefined index: checkprice in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/pricing/payments.php on line 32
+[22-Nov-2020 00:35:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::rowCount() in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/pricing/functions.php:102
+Stack trace:
+#0 /home/jqpwoexp5hew/public_html/unitedhealthinstitute/pricing/payments.php(119): addPayment(Array, '35')
+#1 {main}
+  thrown in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/pricing/functions.php on line 102
+[22-Nov-2020 00:35:29 UTC] PHP Notice:  Undefined index: checkprice in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/pricing/payments.php on line 32
+[22-Nov-2020 00:53:01 UTC] PHP Notice:  Undefined variable: itemAmount in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/pricing/payments.php on line 86
+[22-Nov-2020 00:53:32 UTC] PHP Notice:  Undefined index: checkprice in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/pricing/payments.php on line 32
+[22-Nov-2020 00:53:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::rowCount() in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/pricing/functions.php:102
+Stack trace:
+#0 /home/jqpwoexp5hew/public_html/unitedhealthinstitute/pricing/payments.php(119): addPayment(Array, '36')
+#1 {main}
+  thrown in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/pricing/functions.php on line 102
+[22-Nov-2020 00:53:34 UTC] PHP Notice:  Undefined index: checkprice in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/pricing/payments.php on line 32
+[01-Dec-2020 20:44:47 UTC] PHP Notice:  Undefined variable: itemAmount in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/pricing/payments.php on line 86
+[01-Dec-2020 21:10:04 UTC] PHP Notice:  Undefined variable: itemAmount in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/pricing/payments.php on line 86

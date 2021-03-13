@@ -1,0 +1,106 @@
+header.header-nav.menu_style_home_six .ace-responsive-menu > li {
+    float: left;
+}
+header.header-nav.menu_style_home_six .ace-responsive-menu > li > a {
+    padding: 18px 15px 15px 5px;
+}
+header.header-nav.menu_style_home_six a.navbar_brand span {
+    color: #0a0a0a;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 10px;
+    padding-left: 15px;
+    text-transform: uppercase;
+    vertical-align: middle;
+}
+header.header-nav.menu_style_home_six a.navbar_brand {
+    margin-top: 5px;
+}
+header.header-nav.menu_style_home_six {
+    display: -webkit-box;
+    background: #ffffff;
+    height: 65px;
+    padding: 0px;
+    position: relative;
+    z-index: 99 !important;
+    -webkit-box-shadow: 0px 0px 30px rgba(0,0,0,0.1);
+    -moz-box-shadow: 0px 0px 30px rgba(0,0,0,0.1);
+    -ms-box-shadow: 0px 0px 30px rgba(0,0,0,0.1);
+    -o-box-shadow: 0px 0px 30px rgba(0,0,0,0.1);
+    box-shadow: 0px 0px 30px rgba(0,0,0,0.1);
+}
+.about_box_home6 .details p {
+    font-size: 15px;
+    line-height: 2;
+    margin-bottom: 35px;
+    max-width: initial;
+}
+.divider_home1, .divider_home2 {
+    background-position: center center;
+    -webkit-background-size: cover;
+    background-size: cover;
+    overflow: hidden;
+    padding: 20px 0;
+    position: relative;
+}
+.divider-one h1, .divider-two h1 {
+    font-size: 40px;
+    line-height: 50px;
+    margin-bottom: 0px;
+}
+.divider2
+{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.our-newslatters {
+    background-color: #192675;
+}
+.color-black p {
+    margin-bottom: 0;
+    color: #fff;
+}
+.color-black h3 {
+    color:#fff;
+}
+.banner-style-one .slide:before, .banner-style-two .slide:before {
+    background-color: rgb(25 37 115 / 59%);
+    bottom: 0;
+    content: "";
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.testimonial_slider_home2 .owl-item.active.center .testimonial_item.home2 .details {
+    background-color: #182572;
+}
+.testimonial_slider_home2 .owl-item.active.center .testimonial_item.home2 .details .icon {
+    color: #ffffff;
+}
+.inner_page_breadcrumb {
+    background-image: url(../images/background/inner-pagebg.jpg);
+    background-repeat: no-repeat;
+    height: 200px;
+    margin-top: -1px;
+    position: relative;
+}
+.inner_page_breadcrumb .breadcrumb_content {
+    margin-top: 0;
+}
+.br
+{
+    border: 1px solid #fff;
+    padding: 10px;
+}
+.white-color
+{
+    color:#fff !important;
+}
+.sub-menu{
+    background: #182573 !important;
+}
+.testing{
+    background:#182573 !important
+    ;color: white !important;
+}

@@ -1,0 +1,191 @@
+[18-Nov-2020 11:02:09 UTC] PHP Notice:  Undefined variable: user_id in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/adding_services.php on line 62
+[18-Nov-2020 11:02:40 UTC] PHP Notice:  Undefined variable: user_id in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/adding_services.php on line 62
+[18-Nov-2020 11:04:39 UTC] PHP Notice:  Undefined variable: user_id in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/adding_services.php on line 62
+[18-Nov-2020 11:05:26 UTC] PHP Notice:  Undefined variable: user_id in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/adding_services.php on line 62
+[18-Nov-2020 11:11:58 UTC] PHP Notice:  Undefined variable: user_id in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/adding_services.php on line 62
+[18-Nov-2020 11:14:09 UTC] PHP Notice:  Undefined variable: user_id in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/adding_services.php on line 62
+[18-Nov-2020 16:05:00 UTC] PHP Notice:  Undefined variable: user_id in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/adding_services.php on line 62
+[19-Nov-2020 12:03:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php:85
+Stack trace:
+#0 /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php(85): PDOStatement->execute()
+#1 {main}
+  thrown in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 85
+[19-Nov-2020 12:04:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php:85
+Stack trace:
+#0 /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php(85): PDOStatement->execute()
+#1 {main}
+  thrown in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 85
+[19-Nov-2020 12:05:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php:85
+Stack trace:
+#0 /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php(85): PDOStatement->execute()
+#1 {main}
+  thrown in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 85
+[19-Nov-2020 12:06:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php:85
+Stack trace:
+#0 /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php(85): PDOStatement->execute()
+#1 {main}
+  thrown in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 85
+[19-Nov-2020 12:09:36 UTC] PHP Notice:  Undefined index: coursedetail in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 11
+[19-Nov-2020 12:09:36 UTC] PHP Notice:  Undefined variable: course_content in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 70
+[19-Nov-2020 12:09:36 UTC] PHP Notice:  Undefined variable: course_content in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 81
+[19-Nov-2020 12:09:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php:85
+Stack trace:
+#0 /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php(85): PDOStatement->execute()
+#1 {main}
+  thrown in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 85
+[19-Nov-2020 12:12:05 UTC] PHP Notice:  Undefined index: coursedetail in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 11
+[19-Nov-2020 12:12:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php:84
+Stack trace:
+#0 /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php(84): PDOStatement->execute()
+#1 {main}
+  thrown in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 84
+[19-Nov-2020 12:13:23 UTC] PHP Notice:  Undefined index: coursedetail in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 11
+[19-Nov-2020 12:13:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php:84
+Stack trace:
+#0 /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php(84): PDOStatement->execute()
+#1 {main}
+  thrown in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 84
+[19-Nov-2020 12:15:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php:84
+Stack trace:
+#0 /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php(84): PDOStatement->execute()
+#1 {main}
+  thrown in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 84
+[19-Nov-2020 12:17:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php:84
+Stack trace:
+#0 /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php(84): PDOStatement->execute()
+#1 {main}
+  thrown in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 84
+[19-Nov-2020 12:20:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php:84
+Stack trace:
+#0 /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php(84): PDOStatement->execute()
+#1 {main}
+  thrown in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 84
+[19-Nov-2020 13:45:17 UTC] PHP Notice:  Undefined index: introduction in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/update-profile-async.php on line 17
+[26-Nov-2020 18:03:25 UTC] PHP Notice:  Undefined index: instructor_id in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/auth_session.php on line 3
+[26-Nov-2020 18:03:25 UTC] PHP Notice:  Undefined index: is_verified in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/auth_session.php on line 4
+[26-Nov-2020 18:03:25 UTC] PHP Notice:  Undefined index: instructor_id in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/auth_session.php on line 12
+[26-Nov-2020 18:03:25 UTC] PHP Notice:  Undefined index: profile_pic in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 15
+[26-Nov-2020 18:03:25 UTC] PHP Notice:  Undefined variable: edit_row in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 76
+[26-Nov-2020 18:03:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'instructor_id' cannot be null in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php:102
+Stack trace:
+#0 /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 102
+[26-Nov-2020 18:18:20 UTC] PHP Notice:  Undefined index: instructor_id in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/auth_session.php on line 3
+[26-Nov-2020 18:18:20 UTC] PHP Notice:  Undefined index: is_verified in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/auth_session.php on line 4
+[26-Nov-2020 18:18:20 UTC] PHP Notice:  Undefined index: instructor_id in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/auth_session.php on line 12
+[26-Nov-2020 18:18:20 UTC] PHP Notice:  Undefined index: profile_pic in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 15
+[26-Nov-2020 18:18:23 UTC] PHP Notice:  Undefined variable: edit_row in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 76
+[26-Nov-2020 18:18:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'instructor_id' cannot be null in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php:102
+Stack trace:
+#0 /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 102
+[26-Nov-2020 18:24:54 UTC] PHP Notice:  Undefined index: instructor_id in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/auth_session.php on line 3
+[26-Nov-2020 18:24:54 UTC] PHP Notice:  Undefined index: is_verified in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/auth_session.php on line 4
+[26-Nov-2020 18:24:54 UTC] PHP Notice:  Undefined index: instructor_id in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/auth_session.php on line 12
+[26-Nov-2020 18:24:54 UTC] PHP Notice:  Undefined index: profile_pic in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 15
+[26-Nov-2020 18:24:54 UTC] PHP Notice:  Undefined variable: edit_row in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 76
+[26-Nov-2020 18:24:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'instructor_id' cannot be null in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php:102
+Stack trace:
+#0 /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php(102): PDOStatement->execute()
+#1 {main}
+  thrown in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 102
+[26-Nov-2020 18:30:00 UTC] PHP Notice:  Undefined index: instructor_id in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/auth_session.php on line 3
+[26-Nov-2020 18:30:00 UTC] PHP Notice:  Undefined index: is_verified in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/auth_session.php on line 4
+[26-Nov-2020 18:30:00 UTC] PHP Notice:  Undefined index: instructor_id in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/auth_session.php on line 12
+[26-Nov-2020 18:30:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'instructor_id' cannot be null in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php:84
+Stack trace:
+#0 /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php(84): PDOStatement->execute()
+#1 {main}
+  thrown in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 84
+[27-Nov-2020 09:43:35 UTC] PHP Notice:  Undefined index: course_file in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 14
+[27-Nov-2020 09:43:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 14
+[27-Nov-2020 09:51:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 116
+[27-Nov-2020 10:25:48 UTC] PHP Notice:  Undefined index: playtime_string in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 61
+[27-Nov-2020 10:25:48 UTC] PHP Notice:  Undefined index: video in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 63
+[27-Nov-2020 10:25:48 UTC] PHP Notice:  Undefined index: video in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 63
+[27-Nov-2020 10:25:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'playtime_string' cannot be null in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php:88
+Stack trace:
+#0 /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php(88): PDOStatement->execute()
+#1 {main}
+  thrown in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 88
+[27-Nov-2020 10:26:29 UTC] PHP Notice:  Undefined index: playtime_string in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 61
+[27-Nov-2020 10:26:29 UTC] PHP Notice:  Undefined index: video in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 63
+[27-Nov-2020 10:26:29 UTC] PHP Notice:  Undefined index: video in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 63
+[27-Nov-2020 10:26:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'playtime_string' cannot be null in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php:88
+Stack trace:
+#0 /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php(88): PDOStatement->execute()
+#1 {main}
+  thrown in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 88
+[27-Nov-2020 10:27:25 UTC] PHP Notice:  Undefined index: playtime_string in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 58
+[27-Nov-2020 10:27:25 UTC] PHP Notice:  Undefined index: video in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 60
+[27-Nov-2020 10:27:25 UTC] PHP Notice:  Undefined index: video in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 60
+[27-Nov-2020 10:27:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'playtime_string' cannot be null in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php:85
+Stack trace:
+#0 /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php(85): PDOStatement->execute()
+#1 {main}
+  thrown in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 85
+[27-Nov-2020 10:31:29 UTC] PHP Notice:  Undefined index: mime_type in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 28
+[27-Nov-2020 10:31:29 UTC] PHP Notice:  Undefined index: mime_type in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 28
+[27-Nov-2020 10:31:29 UTC] PHP Notice:  Undefined index: mime_type in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 28
+[27-Nov-2020 10:31:29 UTC] PHP Notice:  Undefined index: mime_type in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 28
+[27-Nov-2020 10:31:29 UTC] PHP Notice:  Undefined index: mime_type in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 29
+[27-Nov-2020 10:31:29 UTC] PHP Notice:  Undefined index: mime_type in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 29
+[27-Nov-2020 10:31:29 UTC] PHP Notice:  Undefined index: mime_type in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 29
+[27-Nov-2020 10:31:29 UTC] PHP Notice:  Undefined index: mime_type in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 29
+[27-Nov-2020 10:31:29 UTC] PHP Notice:  Undefined index: mime_type in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 30
+[27-Nov-2020 10:31:29 UTC] PHP Notice:  Undefined index: mime_type in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 30
+[27-Nov-2020 10:31:29 UTC] PHP Notice:  Undefined index: mime_type in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 30
+[27-Nov-2020 10:59:43 UTC] PHP Notice:  Undefined index: playtime_string in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 58
+[27-Nov-2020 10:59:43 UTC] PHP Notice:  Undefined index: video in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 60
+[27-Nov-2020 10:59:43 UTC] PHP Notice:  Undefined index: video in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 60
+[27-Nov-2020 10:59:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'playtime_string' cannot be null in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php:85
+Stack trace:
+#0 /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php(85): PDOStatement->execute()
+#1 {main}
+  thrown in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 85
+[27-Nov-2020 11:00:35 UTC] PHP Notice:  Undefined index: playtime_string in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 58
+[27-Nov-2020 11:00:35 UTC] PHP Notice:  Undefined index: video in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 60
+[27-Nov-2020 11:00:35 UTC] PHP Notice:  Undefined index: video in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 60
+[27-Nov-2020 11:00:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'playtime_string' cannot be null in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php:85
+Stack trace:
+#0 /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php(85): PDOStatement->execute()
+#1 {main}
+  thrown in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 85
+[27-Nov-2020 11:00:52 UTC] PHP Notice:  Undefined index: playtime_string in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 58
+[27-Nov-2020 11:00:52 UTC] PHP Notice:  Undefined index: video in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 60
+[27-Nov-2020 11:00:52 UTC] PHP Notice:  Undefined index: video in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 60
+[27-Nov-2020 11:00:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'playtime_string' cannot be null in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php:85
+Stack trace:
+#0 /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php(85): PDOStatement->execute()
+#1 {main}
+  thrown in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 85
+[27-Nov-2020 11:04:38 UTC] PHP Notice:  Undefined index: playtime_string in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 58
+[27-Nov-2020 11:04:38 UTC] PHP Notice:  Undefined index: video in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 60
+[27-Nov-2020 11:04:38 UTC] PHP Notice:  Undefined index: video in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 60
+[27-Nov-2020 11:04:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'playtime_string' cannot be null in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php:85
+Stack trace:
+#0 /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php(85): PDOStatement->execute()
+#1 {main}
+  thrown in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 85
+[27-Nov-2020 11:05:18 UTC] PHP Notice:  Undefined index: playtime_string in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 58
+[27-Nov-2020 11:05:18 UTC] PHP Notice:  Undefined index: video in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 60
+[27-Nov-2020 11:05:18 UTC] PHP Notice:  Undefined index: video in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 60
+[27-Nov-2020 11:05:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'playtime_string' cannot be null in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php:85
+Stack trace:
+#0 /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php(85): PDOStatement->execute()
+#1 {main}
+  thrown in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 85
+[27-Nov-2020 12:16:18 UTC] PHP Notice:  Undefined variable: user_id in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/adding_services.php on line 62
+[27-Nov-2020 12:22:31 UTC] PHP Notice:  Undefined variable: user_id in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/adding_services.php on line 75
+[27-Nov-2020 18:41:56 UTC] PHP Notice:  Undefined index: playtime_string in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 58
+[27-Nov-2020 18:41:56 UTC] PHP Notice:  Undefined index: video in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 60
+[27-Nov-2020 18:41:56 UTC] PHP Notice:  Undefined index: video in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 60
+[27-Nov-2020 19:26:15 UTC] PHP Notice:  Undefined variable: row in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/adding_services.php on line 64
+[27-Nov-2020 19:29:22 UTC] PHP Notice:  Undefined variable: row in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/adding_services.php on line 64
+[01-Dec-2020 11:44:29 UTC] PHP Notice:  Undefined variable: row in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/adding_services.php on line 64
+[01-Dec-2020 19:51:52 UTC] PHP Notice:  Undefined variable: row in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/adding_services.php on line 64
+[01-Dec-2020 20:11:09 UTC] PHP Notice:  Undefined index: playtime_string in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 58
+[01-Dec-2020 20:11:09 UTC] PHP Notice:  Undefined index: video in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 60
+[01-Dec-2020 20:11:09 UTC] PHP Notice:  Undefined index: video in /home/jqpwoexp5hew/public_html/unitedhealthinstitute/instructor/ajax/add-course-video.php on line 60

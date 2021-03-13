@@ -1,0 +1,12 @@
+.dashboard_main_content .main_content_container {
+    padding: 50px 0 0;
+}
+.dashboard_sidebar {
+    bottom: 0;
+    margin-top: 0;
+    left: 0;
+    position: absolute;
+    top: 35px;
+    width: 280px;
+    z-index: 9;
+}

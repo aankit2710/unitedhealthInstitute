@@ -1,0 +1,291 @@
+.healthcare .section-header {
+    padding-top: 0.5rem;
+}
+.section-header {
+    padding-bottom: 0.5rem;
+    clear: both;
+    padding-top: 3rem;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    margin-bottom: 0.5rem;
+}
+.section-header h2 {
+    font-size: 2rem;
+    color: #1d3d6e;
+    font-weight: 400;
+    text-transform: none;
+    display: inline-block;
+}
+.section-header .cost, .section-header .cost-header {
+    text-align: left;
+    font-size: 1rem;
+    line-height: 3;
+    font-style: italic;
+    display: inline-block;
+    margin-left: auto;
+    width: 110px;
+}
+.section-header .affirm {
+    font-size: .8rem;
+    line-height: 1;
+    width: 265px;
+}
+.section-header .enroll {
+    text-align: right;
+    display: inline-block;
+}
+.accordion .accordion-button-wrapper {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+}
+.accordion .accordion-button-wrapper h4.accordion-button, .accordion .accordion-button-wrapper h4.accordion-button-alt {
+    font-size: 1.125rem;
+    padding-left: 28px;
+    font-weight: 400;
+    width: 450px;
+    letter-spacing: -1;
+}
+.accordion .accordion-button {
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 2;
+    position: relative;
+    padding-bottom: 0.5rem;
+    transition: 0.4s;
+    margin-top: 10px;
+    padding-left: 28px;
+}
+.accordion-button-wrapper h4 {
+    font-size: 1.125rem;
+    padding-left: 28px;
+    font-weight: 400;
+    width: 400px;
+    letter-spacing: -1;
+    line-height: 1.5;
+    padding-bottom: 0.5rem;
+}
+.accordion .accordion-button-wrapper h4.accordion-button .plus-minus-icon, .accordion .accordion-button-wrapper h4.accordion-button-alt .plus-minus-icon {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 9px;
+    left: 0;
+    border: 2px solid #192675;
+    border-radius: 50%;
+    padding: 3px;
+    box-sizing: border-box;
+}
+.accordion .accordion-button .plus-minus-icon {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 9px;
+    left: 0;
+    border: 2px solid #1d3d6e;
+    border-radius: 50%;
+    padding: 3px;
+    box-sizing: border-box;
+}
+.accordion .accordion-button-wrapper h4.accordion-button, .accordion .accordion-button-wrapper h4.accordion-button-alt {
+    font-size: 1.125rem;
+    padding-left: 28px;
+    font-weight: 400;
+    width: 450px;
+    letter-spacing: -1;
+}
+.accordion .accordion-button {
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 2;
+    position: relative;
+    padding-bottom: 0.5rem;
+    transition: 0.4s;
+    margin-top: 10px;
+    padding-left: 28px;
+}
+.accordion .accordion-button-wrapper .cost {
+    margin-left: auto;
+    width: 110px;
+}
+.accordion .accordion-button-wrapper .cost, .accordion .accordion-button-wrapper .enroll {
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 2;
+    margin-top: 10px;
+    display: inline-block;
+}
+.accordion .accordion-button-wrapper .cost, .accordion .accordion-button-wrapper .enroll {
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 2;
+    margin-top: 10px;
+    display: inline-block;
+}
+.accordion .accordion-button-wrapper .cost, .accordion .accordion-button-wrapper .enroll {
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 2;
+    margin-top: 10px;
+    display: inline-block;
+}
+.accordion .accordion-button-wrapper .affirm {
+    padding: 17px 10px 0 0;
+    width: 150px;
+}
+.affirm-as-low-as {
+    display: block;
+    font-size: 12px;
+}
+.accordion .accordion-button-wrapper .enroll {
+    width: 110px;
+}
+.accordion .accordion-button-wrapper .cost, .accordion .accordion-button-wrapper .enroll {
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 2;
+    margin-top: 10px;
+    display: inline-block;
+}
+.accordion .accordion-button-wrapper .enroll a {
+    background: #C72A74;
+    padding: 5px 15px;
+    width: 100%;
+    color: #fff;
+    border: none;
+}
+.accordion .accordion-button-wrapper .enroll a>i {
+    font-size: 1rem;
+    position: relative;
+    top: 2px;
+}
+.accordion .accordion-panel {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    padding: 0 1rem;
+}
+.accordion .accordion-panel {
+    max-height: 0;
+    transition: 0.4s;
+    overflow: hidden;
+    margin: 0;
+    padding: 0 20px;
+}
+.accordion .accordion-panel .info-wrapper {
+    display: inline-block;
+    margin: 1.5rem 1rem;
+}
+.accordion .accordion-panel .info-wrapper p {
+    margin-top: 0;
+}
+.accordion .accordion-panel .info-wrapper ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    margin-bottom: 1.5rem;
+}
+.accordion .accordion-panel .info-wrapper ul li {
+    line-height: 1;
+    background: url(../icon-check.svg) no-repeat center left;
+    background-size: auto 16px;
+    padding-left: 24px;
+    margin-top: 0.75rem;
+}
+.accordion .accordion-panel div.enroll {
+    display: none;
+}
+.accordion .accordion-panel button {
+    background: #C72A74;
+    padding: 7px 40px;
+    width: 100%;
+}
+.accordion .accordion-button-wrapper {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+}
+.phone-cta-section {
+    margin-top: 1rem;
+}
+phone-cta-prospect .phone-cta-section {
+    background-color: #192675;
+    padding: 1.5rem 0;
+    color: #fff;
+}
+phone-cta-prospect .phone-cta-section h2 {
+    font-size: 2rem;
+    font-weight: 600;
+    text-transform: none;
+    line-height: 1;
+}
+phone-cta-prospect .phone-cta-section h2, phone-cta-prospect .phone-cta-section h3 {
+    text-align: center;
+    color: #fff;
+}
+phone-cta-prospect .phone-cta-section h2 a {
+    color: #fff;
+    white-space: nowrap;
+}
+phone-cta-prospect .phone-cta-section h3 {
+    font-size: 1.5rem;
+    font-weight: 400;
+    text-transform: none;
+    line-height: 1;
+}
+phone-cta-prospect .phone-cta-section h2, phone-cta-prospect .phone-cta-section h3 {
+    text-align: center;
+    color: #fff;
+}
+@media (min-width: 801px)
+{
+.mobile-only {
+    display: none !important;
+}
+}
+phone-cta-prospect .phone-cta-section h2 {
+    font-size: 2rem;
+    font-weight: 600;
+    text-transform: none;
+    line-height: 1;
+}
+phone-cta-prospect .phone-cta-section h2, phone-cta-prospect .phone-cta-section h3 {
+    text-align: center;
+    color: #fff;
+}
+.accordion .accordion-button-wrapper h4.accordion-button .plus-minus-icon:before, .accordion .accordion-button-wrapper h4.accordion-button-alt .plus-minus-icon:before {
+    top: 3px;
+    left: 8px;
+    width: 2px;
+    height: 10px;
+    margin-left: -1px;
+}
+.accordion .accordion-button-wrapper h4.accordion-button .plus-minus-icon:before, .accordion .accordion-button-wrapper h4.accordion-button .plus-minus-icon:after, .accordion .accordion-button-wrapper h4.accordion-button-alt .plus-minus-icon:before, .accordion .accordion-button-wrapper h4.accordion-button-alt .plus-minus-icon:after {
+    content: "";
+    position: absolute;
+    background-color: #192675;
+    transition: transform 0.4s ease-out;
+}
+.accordion .accordion-button-wrapper h4.accordion-button .plus-minus-icon:after, .accordion .accordion-button-wrapper h4.accordion-button-alt .plus-minus-icon:after {
+    top: 8px;
+    left: 3px;
+    width: 10px;
+    height: 2px;
+    margin-top: -1px;
+}
+.accordion .accordion-button-wrapper h4.accordion-button .plus-minus-icon:before, .accordion .accordion-button-wrapper h4.accordion-button .plus-minus-icon:after, .accordion .accordion-button-wrapper h4.accordion-button-alt .plus-minus-icon:before, .accordion .accordion-button-wrapper h4.accordion-button-alt .plus-minus-icon:after {
+    content: "";
+    position: absolute;
+    background-color: #192675;
+    transition: transform 0.4s ease-out;
+}
+.accordion .accordion-button .plus-minus-icon:after {
+    top: 8px;
+    left: 3px;
+    width: 10px;
+    height: 2px;
+    margin-top: -1px;
+}
